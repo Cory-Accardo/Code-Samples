@@ -6,4 +6,4 @@ Hoppz LLC,
 Pod Plug LLC,
 
 
-NOTE: This code is still their intellectual property, and thus cannot be used in any other context without their explicit permission.
+NOTE: This code is still their intellectual property and thus cannot be used in any other context without their explicit permission.
