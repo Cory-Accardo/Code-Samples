@@ -4,3 +4,6 @@ These code snippets were taken with explicit permission from
 
 Hoppz LLC,
 Pod Plug LLC,
+
+
+NOTE: This code is still their intellectual property, and thus cannot be used in any other context without their explicit permission.
